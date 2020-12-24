@@ -1,2 +1,2 @@
-# rst2pdf-hello
-testing loops with rst2pdf
+# weasyprint-hello
+testing loops with weasyprint
